@@ -22,5 +22,6 @@ This will serve as the public repository for the LGEC Fuzz Face Build
 -
 
 # Enclosure Design
-- Size --> (60mm x 120mm x 40mm)
+- Size -> (60mm x 120mm x 40mm)
+
 -
