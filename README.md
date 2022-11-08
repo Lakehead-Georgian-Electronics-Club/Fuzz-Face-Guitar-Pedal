@@ -1,6 +1,8 @@
 # Fuzz Face Project
+
 This will serve as the public repository for the LGEC Fuzz Face Build
--[Fuzz Face Docs.pdf](https://github.com/Lakehead-Georgian-Electronics-Club/Fuzz-Face-Guitar-Pedal/files/9962937/Fuzz.Face.Docs.pdf)
+
+[Fuzz Face Docs.pdf](https://github.com/Lakehead-Georgian-Electronics-Club/Fuzz-Face-Guitar-Pedal/files/9962937/Fuzz.Face.Docs.pdf)
 -
 -
 -
